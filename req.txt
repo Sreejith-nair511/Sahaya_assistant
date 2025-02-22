@@ -1,0 +1,6 @@
+ollama: Runs LLMs locally.
+openai: For OpenAI-style responses.
+pyaudio, speechrecognition: Enables voice input.
+pyttsx3: Converts text to speech.
+langchain, faiss-cpu: Handles document processing.
+PyMuPDF: Extracts text from PDFs.
